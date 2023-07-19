@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb957c60-b358-4cbd-a179-ffe08fc258ff" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/Downloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/IDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/tester/ITestable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/tester/NotConnectedToInterwebzException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/IUploader.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/Downloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/Downloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/IDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/IDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/tester/ITestable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/ITestable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/tester/NotConnectedToInterwebzException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/NotConnectedToInterwebzException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

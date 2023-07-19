@@ -1,10 +1,9 @@
 package ua.grigoriyborisov.downloader;
 
-import ua.grigoriyborisov.tester.ITestable;
-import ua.grigoriyborisov.tester.NotConnectedToInterwebzException;
+import ua.grigoriyborisov.downloader.tester.ITestable;
+import ua.grigoriyborisov.downloader.tester.NotConnectedToInterwebzException;
 
 import java.io.IOException;
-import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLConnection;
 
