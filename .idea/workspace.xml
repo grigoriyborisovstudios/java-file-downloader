@@ -6,11 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cb957c60-b358-4cbd-a179-ffe08fc258ff" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/Downloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/Downloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/IDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/IDownloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/tester/ITestable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/ITestable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/tester/NotConnectedToInterwebzException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/NotConnectedToInterwebzException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/NotConnectedToInterwebzException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/NotConnectedToInterwebzException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2SlFL7ODWYIrQdIgawzhZOZsoYk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -36,18 +38,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ivorius/Desktop/grigoriystudios/java-file-downloader"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ivorius\Desktop\grigoriystudios\java-file-downloader" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Start" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ua.grigoriyborisov.Main" />
       <module name="java-file-downloader" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workspace" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
