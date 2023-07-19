@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="java-file-downloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/java_file_downloader_jar</output-path>
+    <root id="archive" name="java-file-downloader.jar">
+      <element id="module-output" name="java-file-downloader" />
+    </root>
+  </artifact>
+</component>
