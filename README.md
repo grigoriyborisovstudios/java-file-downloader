@@ -10,14 +10,14 @@ Install my-project with jitpack
 #### maven: 
 
 ```bash
-    <repositories>
+   	<repositories>
 		<repository>
 		    <id>jitpack.io</id>
 		    <url>https://jitpack.io</url>
 		</repository>
 	</repositories>
 
-    <dependency>
+    	<dependency>
 	    <groupId>com.github.grigoriyborisovstudios</groupId>
 	    <artifactId>java-file-downloader</artifactId>
 	    <version>Tag</version>
@@ -34,10 +34,12 @@ Install my-project with jitpack
 		}
 	}
 
-    dependencies {
+   	dependencies {
 	        implementation 'com.github.grigoriyborisovstudios:java-file-downloader:Tag'
 	}
 ```
+
+#### [Or download the jar from here.](https://github.com/grigoriyborisovstudios/java-file-downloader/releases/tag/release)
     
 ## Contributing
 
