@@ -7,8 +7,36 @@ A simple java downloader library made with java.
 
 Install my-project with jitpack
 
+#### maven: 
+
 ```bash
-    pretend there's jitpack maven or gradle download
+    <repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+
+    <dependency>
+	    <groupId>com.github.grigoriyborisovstudios</groupId>
+	    <artifactId>java-file-downloader</artifactId>
+	    <version>Tag</version>
+	</dependency>
+```
+
+#### gradle:
+
+```gradle
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+
+    dependencies {
+	        implementation 'com.github.grigoriyborisovstudios:java-file-downloader:Tag'
+	}
 ```
     
 ## Contributing
