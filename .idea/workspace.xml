@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/Downloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/Downloader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/NotConnectedToInterwebzException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ua/grigoriyborisov/downloader/tester/NotConnectedToInterwebzException.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ivorius/Desktop/grigoriystudios/java-file-downloader"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ivorius/Desktop/grigoriystudios/java-file-downloader&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\ivorius\Desktop\grigoriystudios\java-file-downloader" />

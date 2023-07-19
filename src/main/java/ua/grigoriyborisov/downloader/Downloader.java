@@ -56,7 +56,6 @@ public final class Downloader implements IDownloader, ITestable {
             fileData = new byte[con.getContentLength()];
             for (int q = 0; q < fileData.length; q++) {
                 fileData[q] = dis.readByte();
-                System.out.println("Got byte " + q); // Отримано байт номер + q
             }
             dis.close(); // close the data input stream (закриття потоку введення даних)
             System.out.println("Saving " + location); // Збереження + розташування

@@ -8,12 +8,19 @@ import java.net.URL;
 
 public class Main {
     public static void main(String[] args) {
-        try {
-            // example
-            final Downloader downloader = new Downloader(new URL("http://www.java2s.com/Code/JarDownload/vecmath/vecmath.jar.zip"), new File("vecmath.zip"));
-            downloader.begin();
-        } catch (MalformedURLException e) {
-            throw new RuntimeException(e);
-        }
+        new Thread() {
+            @Override
+            public void run() {
+                super.run();
+                final Downloader downloader;
+                try {
+                    downloader = new Downloader(new URL("http://www.java2s.com/Code/JarDownload/vecmath/vecmath.jar.zip"), new File("vecmath.zip"));
+                } catch (MalformedURLException e) {
+                    throw new RuntimeException(e);
+                }
+                downloader.begin();
+            }
+        }.start();
     }
 }
+
